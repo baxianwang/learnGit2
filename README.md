@@ -9,3 +9,5 @@ Switch to feature branch
 
 Push changes to repo
 5. learned git push
+
+Also moving the feature branch
