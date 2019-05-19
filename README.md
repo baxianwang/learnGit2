@@ -7,3 +7,5 @@ Making changes on top of master branch.
 Would like to learn more on git merge and git rebase. 
 If we move repo master one more step, what happen?
 Keep moving
+
+Would like to try merge again with tools. 
