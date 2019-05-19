@@ -5,3 +5,4 @@ Master Branch: Learn git commands.
 
 Making changes on top of master branch. 
 Would like to learn more on git merge and git rebase. 
+If we move repo master one more step, what happen?
