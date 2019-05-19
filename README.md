@@ -5,4 +5,7 @@ Master Branch: Learn git commands.
 
 Switch to feature branch
 3. learned git checkout -b <branch_name>
-4. Learned git add and git commit. Changes are on feature branch. 
+4. Learned git add and git commit. Changes are on feature branch.
+
+Push changes to repo
+5. learned git push
