@@ -1,5 +1,7 @@
 # learnGit2
 Master Branch: Learn git commands. 
+Let us try to something hard. 
+
 1. Learned git clone, git pull. 
 2. learned git config
 
